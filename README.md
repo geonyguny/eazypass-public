@@ -11,4 +11,4 @@ EazyPass Study는 자격증 수험생을 위한 학습 앱입니다.
 
 ## 👀 Preview
 
-![EasyPass Preview](./assets/preview.gif)
+![EasyPass Preview](./preview.gif)
