@@ -12,9 +12,9 @@
 
 ## 👀 Preview
 
-![preview](./assets/preview.gif)
+![preview](./preview.gif)
 
 > 하루 30분 투자로 합격에 가까워지세요!
 
-📌 참고: 본 프로젝트는 내부적으로 easypass-study라는 개발 경로를 사용하고 있으나,
-서비스명은 EazyPass Study로 운영되며 EasyPass 브랜드와는 무관합니다.
+📌 참고: 본 프로젝트는 eazypass-study라는 개발 repository를 사용하여 소스코드를 저장하고 있고,
+         여기 repository에는 소스코드는 제외하였습니다
